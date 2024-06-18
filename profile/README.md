@@ -12,12 +12,10 @@ Heads over to our [GitHub repository](https://github.com/is-a-dev/register) to g
 - Fast support for issues
 - [Documentation](https://www.is-a.dev/docs), covering using our subdomains with many different services
 
+###### *Response times may vary based on the amount of PRs we are receiving.
+
 ## Links
 - [GitHub repository](https://github.com/is-a-dev/register)
 - [Discord server](https://discord.gg/is-a-dev-830872854677422150)
 - [Documentation](https://www.is-a.dev/docs)
 - [Homepage](https://www.is-a.dev)
-
----
-
-###### *Response times may vary based on the amount of PRs we are receiving.

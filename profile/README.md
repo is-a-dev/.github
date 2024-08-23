@@ -3,7 +3,7 @@
 ## Who we are
 We are a free subdomain service who provide sweet-looking `.is-a.dev` subdomains for developers!
 
-Heads over to our [GitHub repository](https://github.com/is-a-dev/register) to get started. Alternatively, you can also join our [Discord server](https://discord.gg/is-a-dev-830872854677422150) and run `/register` in the commands channel.
+Head over to our [GitHub repository](https://github.com/is-a-dev/register) to get started. Alternatively, you can also join our [Discord server](https://discord.gg/is-a-dev-830872854677422150) and run `/register` in the commands channel.
 
 ## Why use us?
 - We support many types of records (A, AAAA, CNAME, MX, TXT)

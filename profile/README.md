@@ -16,6 +16,6 @@ Head over to our [GitHub repository](https://github.com/is-a-dev/register) to ge
 
 ## Links
 - [GitHub repository](https://github.com/is-a-dev/register)
-- [Discord server](https://discord.gg/is-a-dev-830872854677422150)
+- [Discord server](https://discord.com/invite/is-a-dev)
 - [Documentation](https://www.is-a.dev/docs)
 - [Homepage](https://www.is-a.dev)

@@ -1,7 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/is-a-dev/register/main/media/banner.png)
 
-# is-a.dev
-
 ## Who we are
 We are a free subdomain service who provide sweet-looking `.is-a.dev` subdomains for developers!
 
